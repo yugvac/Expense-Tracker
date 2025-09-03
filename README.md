@@ -46,4 +46,4 @@
 
 1. Clone the repository:
    ```bash
-   git clone <repo_url>
+   git clone https://github.com/yugvac/Expense-Tracker.git
